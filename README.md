@@ -10,7 +10,7 @@ This project primarily focuses on (not exhaustive)
 •	The top 5 games of all times.
 •	Critic and User Score analysis
 
-# technology used
+# Technology used
 
 The source code of this analysis is implemented in R.
 To run the code, you have to change the directory of the dataset and execute it.
